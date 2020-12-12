@@ -1,0 +1,2 @@
+This project create the file named "dataFile.txt",store the data entered by the user in that file,find the reciprocal of each data
+stored in the file, find sum of the the possible data stored in file,delete file. This project also handle all the runtime exception.
